@@ -12,3 +12,6 @@ To evaluate the performance and visual quality of our method, we conducted a ser
 as well as suggest one possible way of incorporating the pipeline in Unreal Engine 5. The results showcase the
 potential of using the suggested pipeline as a possible replacement or an enhancement of the traditional reflection
 probe linear interpolation.
+
+
+Please note that the dataset is not included in the repository as it is too large. 
