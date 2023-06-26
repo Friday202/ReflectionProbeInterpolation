@@ -4,17 +4,17 @@ This project aims to (fix) generate new images using an encoder/decoder neural n
 
 Due to difficulties in accessing cubemaps in Unreal Engine the trained model was tested in Python instead. For more detailed information on the project, please refer to the provided report.
 
-# Installation
+## Installation
 The project is best cloned or downloaded as ZIP as for any modification you will need to change source code. 
 
-# Features
+## Features
 - Unreal engine script written in Python for Unreal console to extract images from level.
 - Model training and architecture using Keras Tensorflow (TF with CUDA enabled is recommended).
 - Preprocess data script for processing extracting images.
 - Visualizing script to evaluate model.
 
 
-# Results
+## Results
 
 Bi-linear interpolation - input           |   Generated ouput 
 :-------------------------:|:-------------------------:
